@@ -23,7 +23,7 @@
 
 Aplikasi ini dikompilasi menjadi utilitas portabel mandiri tanpa installer rumit (*zero installation*), berjalan ringan di latar belakang dekat area notifikasi sistem (*System Tray*), serta ditenagai oleh mesin library terkompilasi **`disktrex.dll`**.
 
-> **Publisher**: [Seroja Labs](https://github.com/serojalabs)  
+> **Publisher**: [Seroja Labs](https://serojalabs.sbs)  
 > **Author**: [Darkostepbro](https://github.com/darkostepbro)  
 > **Model**: Gemini 3.8 & Claude 4.6  
 > **Watermark**: by Seroja Labs  
