@@ -42,7 +42,6 @@ Aplikasi ini dikompilasi menjadi utilitas portabel mandiri tanpa installer rumit
 - 🎨 **Windows 11 Fluent Monochrome UI**:
   - Tampilan modern dengan sudut *rounded 30%* presisi menggunakan Win32 Region Clipping (`CreateRoundRectRgn`) tanpa artefak sudut hitam (*zero black corners*).
   - Pilihan tema **Dark** & **Light** yang nyaman di mata dengan kontras clean.
-  - Tipografi halus menggunakan font sistem native `Segoe UI Variable Text`.
 
 - ⚡ **Realtime Storage Dashboard & I/O Monitor**:
   - Pemantauan kapasitas partisi drive internal dan eksternal secara *real-time*.
