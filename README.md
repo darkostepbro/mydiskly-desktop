@@ -16,7 +16,7 @@
 </p>
 
 <p alight="center">
-<img width="300" alt="preview-mydiskly" src="https://github.com/user-attachments/assets/ca948888-1dfc-4990-8350-ba892980d80d" />
+<img width="300" alt="preview-mydiskly" src="[https://github.com/user-attachments/assets/ca948888-1dfc-4990-8350-ba892980d80d](https://github.com/user-attachments/assets/55832364-6ee6-47f7-b2f1-20b5cbf4c8de)" />
 </p>
 
 
