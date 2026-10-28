@@ -15,8 +15,9 @@
   <a href="https://github.com/darkostepbro/mydiskly-desktop/issues"><img src="https://img.shields.io/badge/Community%20Feedback-Welcome-orange?style=for-the-badge&logo=github" alt="Feedback" /></a>
 </p>
 
-<img width="400" height="225" alt="preview-mydiskly" src="https://github.com/user-attachments/assets/ca948888-1dfc-4990-8350-ba892980d80d" />
-
+<p alight="center">
+<img width="1080" alt="preview-mydiskly" src="https://github.com/user-attachments/assets/ca948888-1dfc-4990-8350-ba892980d80d" />
+</p>
 
 
 ---
