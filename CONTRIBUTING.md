@@ -76,6 +76,5 @@ Hasil kompilasi siap pakai akan berada di direktori `dist/mydiskly-v1/`.
 
 - **Publisher**: [Seroja Labs](https://github.com/serojalabs)
 - **Author**: Darkostepbro
-- **Model**: Gemini 3.8 & Claude 4.6
 - **Feedback & Repository**: [github.com/darkostepbro/mydiskly-desktop](https://github.com/darkostepbro/mydiskly-desktop)
 - **Lisensi**: MIT License
