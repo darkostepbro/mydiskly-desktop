@@ -29,7 +29,6 @@ Aplikasi ini dikompilasi menjadi utilitas portabel mandiri tanpa installer rumit
 
 > **Publisher**: [Seroja Labs](https://serojalabs.sbs)  
 > **Author**: [Darkostepbro](https://github.com/darkostepbro)  
-> **Model**: Gemini 3.8 & Claude 4.6  
 > **Watermark**: by Seroja Labs  
 > **Versi Saat Ini**: `1.0.2026`  
 > **Kategori**: Portable Utility Apps  
