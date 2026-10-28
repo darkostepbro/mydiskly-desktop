@@ -218,9 +218,7 @@ Proyek ini dirilis secara terbuka di bawah lisensi [MIT License](LICENSE).
 Copyright (c) 2026 Seroja Labs & Darkostepbro.
 Publisher: Seroja Labs
 Author: Darkostepbro
-Model: Gemini 3.8 & Claude 4.6
 Repository: https://github.com/darkostepbro/mydiskly-desktop
-Feedback: https://github.com/darkostepbro/mydiskly-desktop
 Made in Indonesia.
 ```
 
