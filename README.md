@@ -17,7 +17,7 @@
 
 [https://github.com/user-attachments/assets/55832364-6ee6-47f7-b2f1-20b5cbf4c8de](https://github.com/user-attachments/assets/e7f1822d-7977-4bc8-bfdd-9fc95263b5e8)
 
-> Check latest version : [MyDiskyly for Windows](https://github.com/darkostepbro/mydiskly-desktop/releases)
+> Download MyDiskly Latest version : [MyDiskyly for Windows](https://github.com/darkostepbro/mydiskly-desktop/releases)
 
 ---
 
