@@ -27,7 +27,7 @@
 
 Aplikasi ini dikompilasi menjadi utilitas portabel mandiri tanpa installer rumit (*zero installation*), berjalan ringan di latar belakang dekat area notifikasi sistem (*System Tray*), serta ditenagai oleh mesin library terkompilasi **`disktrex.dll`**.
 
-> **Publisher**: [Seroja Labs](https://serojalabs.sbs)  
+> **Team**: [Seroja Labs](https://serojalabs.sbs)  
 > **Author**: [Darkostepbro](https://github.com/darkostepbro)  
 > **Watermark**: by Seroja Labs  
 > **Versi Saat Ini**: `1.0.2026`  
@@ -215,7 +215,7 @@ Proyek ini dirilis secara terbuka di bawah lisensi [MIT License](LICENSE).
 
 ```text
 Copyright (c) 2026 Seroja Labs & Darkostepbro.
-Publisher: Seroja Labs
+Team: Seroja Labs
 Author: Darkostepbro
 Repository: https://github.com/darkostepbro/mydiskly-desktop
 Made in Indonesia.
