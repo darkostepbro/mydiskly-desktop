@@ -89,7 +89,7 @@ Aplikasi ini dikompilasi menjadi utilitas portabel mandiri tanpa installer rumit
                                   ▼
 ┌──────────────────────────────────────────────────────────────────┐
 │                 Native Win32 Integration Layer                   │
-│   • SetWindowRgn (30% Smooth Rounding & Alpha Clipping)         │
+│   • SetWindowRgn (30% Smooth Rounding & Alpha Clipping)          │
 │   • Single-Instance Kernel Mutex Protection                      │
 │   • SystemParametersInfoW Flyout Positioning                     │
 │   • pystray Background Notification Daemon                       │
