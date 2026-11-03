@@ -1,0 +1,25 @@
+# Rust build artifacts
+target/
+**/*.rs.bk
+
+# Cargo locks and backup
+*.log
+*.tmp
+*.bak
+
+# Windows Temporary and Runtime Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editor configuration
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Runtime Generated User INI & Cache (local only)
+app_trace.log
+specs_cache.json
+mydiskly_force_quit.signal
