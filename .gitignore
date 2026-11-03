@@ -23,3 +23,5 @@ $RECYCLE.BIN/
 app_trace.log
 specs_cache.json
 mydiskly_force_quit.signal
+*.ini
+!default*.ini

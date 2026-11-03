@@ -163,6 +163,15 @@ impl MyDisklyInstallerApp {
             let _ = fs::create_dir_all(&target_dir);
             let _ = fs::remove_file(target_dir.join("specs_cache.json"));
 
+            if EMBEDDED_APP_EXE.len() < 1000 || EMBEDDED_APP_EXE.starts_with(b"MZ_STUB") {
+                update_step(
+                    1,
+                    1.0,
+                    "Error: Installer was compiled with a placeholder stub. Please rebuild with MyDiskly.exe embedded.",
+                );
+                return;
+            }
+
             let target_exe = target_dir.join("MyDiskly.exe");
             let _ = fs::write(&target_exe, EMBEDDED_APP_EXE);
             let _ = fs::write(target_dir.join("LICENSE.txt"), LICENSE_TEXT);

@@ -136,14 +136,24 @@ mydiskly-desktop-id/
 - **LLVM-MinGW / GCC**: Required for Win32 linking and resource compilation (`windres`)
 
 ### Building the Binaries
-Open PowerShell in the root directory of the workspace and execute:
 
+#### Option A: One-Click Automated Pipeline (Recommended)
+Run the automated build script from the root directory:
+```powershell
+.\build.ps1
+```
+*(Or execute `build.bat` from a standard Command Prompt)*
+
+#### Option B: Manual Step-by-Step Compilation
 ```powershell
 # 1. Compile the Main Desktop Application (MyDiskly.exe)
 cargo build --release -p mydiskly-app
 
 # 2. Compile the Standalone Setup Wizard (MyDiskly-Setup.exe)
 cargo build --release -p mydiskly-installer
+
+# 3. Synchronize the Standalone Uninstaller Suite
+Copy-Item target/release/MyDiskly-Setup.exe target/release/Uninstall.exe -Force
 ```
 
 Compiled binaries will be generated inside `target/release/`:
