@@ -42,7 +42,7 @@ const EMBEDDED_APP_EXE: &[u8] = include_bytes!("../../../target/release/MyDiskly
 
 const LICENSE_TEXT: &str = "MyDiskly Modern Storage Suite (v1.1.2026)\r\n\
 Publisher: Seroja Labs (https://serojalabs.sbs/mydiskly)\r\n\
-Repository: https://github.com/darkostepbro/mydiskly-desktop\r\n\
+Repository: https://github.com/darkostepbro/mydiskly-desktop-id\r\n\
 License: GNU General Public License v3.0 (GPL-3.0)\r\n";
 
 #[repr(C)]
@@ -947,7 +947,7 @@ impl MyDisklyInstallerApp {
                 );
                 for (label, url) in [
                     ("Website", "https://serojalabs.sbs/mydiskly"),
-                    ("GitHub", "https://github.com/darkostepbro/mydiskly-desktop"),
+                    ("GitHub", "https://github.com/darkostepbro/mydiskly-desktop-id"),
                     ("Follow us", "https://github.com/darkostepbro"),
                 ] {
                     let resp = ui.add(
