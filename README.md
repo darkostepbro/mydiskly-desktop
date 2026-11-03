@@ -15,7 +15,7 @@
   <a href="https://github.com/darkostepbro/mydiskly-desktop/issues"><img src="https://img.shields.io/badge/Community%20Feedback-Welcome-orange?style=for-the-badge&logo=github" alt="Feedback" /></a>
 </p>
 
-[https://github.com/user-attachments/assets/55832364-6ee6-47f7-b2f1-20b5cbf4c8de](https://github.com/user-attachments/assets/e7f1822d-7977-4bc8-bfdd-9fc95263b5e8)
+[https://github.com/user-attachments/assets/55832364-6ee6-47f7-b2f1-20b5cbf4c8de](https://github.com/user-attachments/assets/de3b15da-c81d-4212-973c-7bf2e563c49e)
 
 > Download MyDiskly Latest version : [MyDiskyly for Windows](https://github.com/darkostepbro/mydiskly-desktop/releases)
 
