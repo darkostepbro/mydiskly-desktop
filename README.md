@@ -15,6 +15,8 @@
 
 ---
 
+[https://github.com/user-attachments/assets/96bff427-4356-4511-aff1-a1006e63e257](https://github.com/user-attachments/assets/96bff427-4356-4511-aff1-a1006e63e257)
+
 ## 📖 About MyDiskly
 **MyDiskly** is a high-performance Windows desktop storage telemetry and maintenance utility built **100% in pure native Rust** (`eframe` / `egui 0.29` with native Glow Win32 rendering).
 
@@ -25,6 +27,8 @@ Designed for Windows 10 and Windows 11 (including debloated and custom builds su
 > **Version**: `1.1.2026`  
 > **Category**: Native Installer & Portable Storage Suite  
 > **License**: GNU General Public License v3.0 (GPL-3.0)  
+
+MyDiskly for Windows 64-bit : [Download Latest version](https://github.com/darkostepbro/mydiskly-desktop/releases)
 
 ---
 
