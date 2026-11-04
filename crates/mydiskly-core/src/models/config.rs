@@ -1,4 +1,4 @@
-use serde::{Deserialize, Serialize};
+﻿use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct AppConfig {
@@ -58,7 +58,7 @@ impl Default for AppConfig {
             author: "Darkostepbro".to_string(),
             model: "Collaboration with Smart AI".to_string(),
             watermark: "by Seroja Labs".to_string(),
-            repo: "https://github.com/darkostepbro/mydiskly-desktop-id".to_string(),
+            repo: "https://github.com/darkostepbro/mydiskly-desktop".to_string(),
             website: "https://serojalabs.sbs/mydiskly".to_string(),
         }
     }

@@ -1,4 +1,4 @@
-use egui::{vec2, Color32, Frame, Margin, RichText, Rounding, Sense, Stroke, TextureHandle, Ui};
+﻿use egui::{vec2, Color32, Frame, Margin, RichText, Rounding, Sense, Stroke, TextureHandle, Ui};
 use mydiskly_core::gatekeeper::to_wide_chars;
 use mydiskly_core::AppConfig;
 use windows_sys::Win32::UI::Shell::ShellExecuteW;
@@ -121,12 +121,12 @@ pub fn render(ui: &mut Ui, lang: &str, config: &AppConfig, logo_texture: &Textur
 
                     let repo_resp = ui
                         .add(repo_btn)
-                        .on_hover_text("https://github.com/darkostepbro/mydiskly-desktop-id");
+                        .on_hover_text("https://github.com/darkostepbro/mydiskly-desktop");
                     if repo_resp.hovered() {
                         ui.ctx().set_cursor_icon(egui::CursorIcon::PointingHand);
                     }
                     if repo_resp.clicked() {
-                        open_url("https://github.com/darkostepbro/mydiskly-desktop-id");
+                        open_url("https://github.com/darkostepbro/mydiskly-desktop");
                     }
                 });
             });
@@ -188,7 +188,7 @@ pub fn render(ui: &mut Ui, lang: &str, config: &AppConfig, logo_texture: &Textur
                 );
                 let gh_resp = ui.add(
                     egui::Label::new(
-                        RichText::new("github.com/darkostepbro/mydiskly-desktop-id")
+                        RichText::new("github.com/darkostepbro/mydiskly-desktop")
                             .color(Color32::from_rgb(56, 189, 248))
                             .underline()
                             .strong()
@@ -200,7 +200,7 @@ pub fn render(ui: &mut Ui, lang: &str, config: &AppConfig, logo_texture: &Textur
                     ui.ctx().set_cursor_icon(egui::CursorIcon::PointingHand);
                 }
                 if gh_resp.clicked() {
-                    open_url("https://github.com/darkostepbro/mydiskly-desktop-id");
+                    open_url("https://github.com/darkostepbro/mydiskly-desktop");
                 }
             });
 

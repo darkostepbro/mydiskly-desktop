@@ -1,4 +1,4 @@
-# MyDiskly (Pure Native Rust Edition) 💽
+﻿# MyDiskly (Pure Native Rust Edition) 💽
 > **A Super Lightweight, Modern & Fluent Windows 11 & 10 Storage Scanner, Telemetry & Cleaner Suite**
 
 <p align="center">
@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/darkostepbro/mydiskly-desktop-id/releases"><img src="https://img.shields.io/badge/Release-v1.1.2026-0B65E6?style=for-the-badge&logo=windows11&logoColor=white" alt="Release v1.1.2026" /></a>
+  <a href="https://github.com/darkostepbro/mydiskly-desktop/releases"><img src="https://img.shields.io/badge/Release-v1.1.2026-0B65E6?style=for-the-badge&logo=windows11&logoColor=white" alt="Release v1.1.2026" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge" alt="GPL-3.0 License" /></a>
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Language-Rust%202021-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust 2021" /></a>
-  <a href="https://github.com/darkostepbro/mydiskly-desktop-id"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-blue?style=for-the-badge&logo=windows" alt="Platform" /></a>
-  <a href="https://github.com/darkostepbro/mydiskly-desktop-id/issues"><img src="https://img.shields.io/badge/Community%20Feedback-Welcome-orange?style=for-the-badge&logo=github" alt="Feedback" /></a>
+  <a href="https://github.com/darkostepbro/mydiskly-desktop"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-blue?style=for-the-badge&logo=windows" alt="Platform" /></a>
+  <a href="https://github.com/darkostepbro/mydiskly-desktop/issues"><img src="https://img.shields.io/badge/Community%20Feedback-Welcome-orange?style=for-the-badge&logo=github" alt="Feedback" /></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@ MyDiskly automatically maintains and updates three configuration components:
 ## 🏛️ Cargo Workspace Layout
 
 ```
-mydiskly-desktop-id/
+mydiskly-desktop/
 ├── Cargo.toml                         # Cargo Root Workspace
 ├── Cargo.lock                         # Locked Dependency Manifest
 ├── crates/
@@ -168,4 +168,4 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 
 Copyright (C) 2026 **Seroja Labs** & **Darkostepbro**. All rights reserved.  
 Official Website: [serojalabs.sbs/mydiskly](https://serojalabs.sbs/mydiskly)  
-Source Code: [github.com/darkostepbro/mydiskly-desktop-id](https://github.com/darkostepbro/mydiskly-desktop-id)
+Source Code: [github.com/darkostepbro/mydiskly-desktop](https://github.com/darkostepbro/mydiskly-desktop)
