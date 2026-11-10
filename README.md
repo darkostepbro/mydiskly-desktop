@@ -15,8 +15,8 @@
 
 ---
 <p align="center">
-<b>STILL MAINTENANCE. READ-ONLY & DO NOT USE THIS PROJECT FOR NOW</b>
-<br>I TRYING HARD TO FIX THE ENTIRE CODE
+<b>STILL MAINTENANCE. READ-ONLY</b>
+<br>TRYING HARD TO FIX THE ENTIRE CODE IN BACKGROUND
 </p>
 
 [https://github.com/user-attachments/assets/7ce58763-2ad2-41d0-80d4-36cbf38e810d](https://github.com/user-attachments/assets/7ce58763-2ad2-41d0-80d4-36cbf38e810d)
