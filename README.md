@@ -17,6 +17,13 @@
 <p align="center">
 <b>STILL MAINTENANCE. READ-ONLY</b>
 <br>TRYING HARD TO FIX THE ENTIRE CODE IN BACKGROUND
+<br></p>
+
+---
+
+<p align="center">
+Preview
+▾
 </p>
 
 [https://github.com/user-attachments/assets/7ce58763-2ad2-41d0-80d4-36cbf38e810d](https://github.com/user-attachments/assets/7ce58763-2ad2-41d0-80d4-36cbf38e810d)
