@@ -1,4 +1,4 @@
-# MyDiskly (Pure Native Rust Edition) 💽
+# MyDiskly | STILL MAINTENANCE. READ-ONLY
 > **A Super Lightweight, Modern & Fluent Windows 11 & 10 Storage Scanner, Telemetry & Cleaner Suite**
 
 <p align="center">
@@ -11,6 +11,12 @@
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Language-Rust%202021-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust 2021" /></a>
   <a href="https://github.com/darkostepbro/mydiskly-desktop"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-blue?style=for-the-badge&logo=windows" alt="Platform" /></a>
   <a href="README_ID.md"><img src="https://img.shields.io/badge/Dokumentasi-Bahasa%20Indonesia-red?style=for-the-badge" alt="Indonesian Docs" /></a>
+</p>
+
+---
+<p align="center">
+<b>STILL MAINTENANCE. READ-ONLY</b>
+<br>I TRYING HARD TO FIX THE ENTIRE CODE
 </p>
 
 ---
