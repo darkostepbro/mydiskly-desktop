@@ -54,7 +54,6 @@ Designed specifically for Windows 10 and Windows 11 (including debloated and cus
 | **External Dependencies** | Python DLLs, MSVCRT, WebView2 | **None (Self-Contained Executable)** | 100% Standalone |
 | **OS Compatibility** | Prone to crashes on debloated Windows | **Windows 10 & 11 x64 (All Editions)** | Fully Resilient |
 | **SSD File Sanitization** | Blind Multi-Pass Overwrites (NAND Wear) | **Hardware-Aware Zero-TBW (`FSCTL_FILE_LEVEL_TRIM`)** | **0-Byte Write Amplification** |
-| **Self-Updater Safety** | In-place uncoordinated overwrite | **Defender-Safe Atomic Rename + Rollback** | **Zero Sharing Violations** |
 
 ---
 
@@ -92,7 +91,7 @@ Designed specifically for Windows 10 and Windows 11 (including debloated and cus
 | :--- | :--- | :--- |
 | **`v1.0.0`** | Foundation Release | Visual Disk Space Treemap Analyzer, basic `%TEMP%` cleaner with Administrator UAC manifest, native Rust `egui` UI (~3.8 MB binary). |
 | **`v1.1.0`** | Stable Baseline | Added SIMD-Accelerated Duplicate File Finder, Raw Multi-Pass File Shredder (DoD 5220.22-M 3-Pass & Gutmann), 0.0% idle CPU telemetry (~4.0 MB binary). |
-| **`v1.2.0-hotfix`** | **Current Release** | Retains 100% of `v1.1.0` features + **5-Category Windows 11 Accordion Holistic Cache Cleaner** (MS Office, WPS Office, Opera/GX, Vivaldi, Tor, All Adobe CC Apps, TikTok LIVE Studio, Antigravity, Claude Code, Valorant), **Hardware-Aware Zero-TBW SSD Deallocation** (`<=1024B` MFT Scrub + `>1024B` `FSCTL_FILE_LEVEL_TRIM` on Shredder; Fast Unlink on Cleaner), **5th Safety Interlock (`is_safe_deletion_target`)**, **Hybrid Timestamp Engine**, **Anti-Junction `0x0400` Guard**, **App Recommendation Feedback Bar**, **Windows 11 Settings Overview Sync**, and **Top-Right Tray Menu + Help & Privacy Terms Window**. |
+| **`v1.2.0-hotfix`** | **Coming Soon** | Retains 100% of `v1.1.0` features + **5-Category Windows 11 Accordion Holistic Cache Cleaner** (MS Office, WPS Office, Opera/GX, Vivaldi, Tor, All Adobe CC Apps, TikTok LIVE Studio, Antigravity, Claude Code, Valorant), **Hardware-Aware Zero-TBW SSD Deallocation** (`<=1024B` MFT Scrub + `>1024B` `FSCTL_FILE_LEVEL_TRIM` on Shredder; Fast Unlink on Cleaner), **5th Safety Interlock (`is_safe_deletion_target`)**, **Hybrid Timestamp Engine**, **Anti-Junction `0x0400` Guard**, **App Recommendation Feedback Bar**, **Windows 11 Settings Overview Sync**, and **Top-Right Tray Menu + Help & Privacy Terms Window**. |
 
 ---
 
