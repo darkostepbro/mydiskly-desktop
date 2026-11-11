@@ -139,4 +139,3 @@ fs::remove_file()    fs::remove_file()
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. You are free to inspect, modify, and redistribute this software under the same open-source terms.
 
 Copyright (C) 2026 **Seroja Labs** & **Darkostepbro**. All rights reserved.  
-Visit : [serojalabs.sbs/mydiskly](https://serojalabs.sbs/mydiskly)  
