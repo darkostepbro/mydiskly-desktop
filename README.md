@@ -16,7 +16,6 @@
 ---
 <p align="center">
 <b>STILL MAINTENANCE. READ-ONLY</b>
-<br>TRYING HARD TO FIX THE ENTIRE CODE IN BACKGROUND
 <br></p>
 
 ---
